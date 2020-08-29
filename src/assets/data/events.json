@@ -1,0 +1,53 @@
+{
+    "upcomingEvent": [
+        {
+            "title": "Become a Member",
+            "date": "2020-09-01",
+            "time": "17:00",
+            "description": "Want to become a member",
+            "venue": "Fill the form",
+            "icon": "M",
+            "link": "https://forms.gle/4CQeoSYLRaiXtM8JA"
+        }
+    ],
+    "events": [
+        {
+            "title": "Become a Member",
+            "date": "2020-08-28",
+            "time": "17:00",
+            "link": "https://forms.gle/4CQeoSYLRaiXtM8JA",
+            "showcase": true,
+            "id": 7,
+            "icon": "M",
+            "speaker": "DSC Lead"
+        },
+        {
+            "title": "",
+            "date": "",
+            "time": "",
+            "link": "",
+            "id": 6,
+            "icon": "",
+            "speaker": ""
+        },
+        {
+            "title": "",
+            "date": "",
+            "time": "",
+            "link": "",
+            "id": 5,
+            "icon": "",
+            "speaker": ""
+        },
+        {
+            "title": "",
+            "date": "",
+            "time": "",
+            "link": "",
+            "id": 4,
+            "icon": "",
+            "speaker": ""
+        }
+
+    ]
+}

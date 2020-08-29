@@ -1,0 +1,56 @@
+[
+    {
+        "name":"Govind Goel",
+        "designation":"Web and IoT Developer",
+        "twitter":"https://twitter.com/govindgoel82",
+        "linkedin":"https://www.linkedin.com/in/govindgoel",
+        "github":"https://github.com/govindgoel",
+        "profileImage":"govind.png",
+        "website":"https://govindgoel.github.io"
+    },
+    {
+        "name":"Ananthan",
+        "designation":"Android Developer",
+        "twitter":"https://twitter.com/Ananthan2K",
+        "linkedin":"https://www.linkedin.com/in/k-n-anantha-nandanan-5503841a4/",
+        "github":"https://github.com/ananthanandanan",
+        "profileImage":"ananthan.jpg",
+        "website":""
+    },
+    {
+        "name":"Ashwin Ramakrishnan",
+        "designation":"Android Developer",
+        "twitter":"https://twitter.com/ashwinkey04",
+        "linkedin":"https://www.linkedin.com/in/ashwinkey04",
+        "github":"https://github.com/ashwinkey04",
+        "profileImage":"ashwin.jpg",
+        "website":""
+    },
+    {
+        "name":"Akshay V",
+        "designation":"Web and Back End Developer",
+        "twitter":"https://twitter.com/akymaster007",
+        "linkedin":"",
+        "github":"https://github.com/akshayaky",
+        "profileImage":"akshay.jpeg",
+        "website":""
+    },
+    {
+        "name":"Nehal Nevle",
+        "designation":"Front End Developer",
+        "twitter":"https://twitter.com/NevleNehal",
+        "linkedin":"https://www.linkedin.com/in/nehal-nevle-631618197",
+        "github":"https://github.com/Blackcipher101",
+        "profileImage":"nehal.jpg",
+        "website":""
+    },
+    {
+        "name":"Mayukh Deb",
+        "designation":"ML and AI Developer",
+        "twitter":"https://twitter.com/mayukh09",
+        "linkedin":"",
+        "github":"https://github.com/Mayukhdeb",
+        "profileImage":"mayukh.jpg",
+        "website":""
+    }
+]
