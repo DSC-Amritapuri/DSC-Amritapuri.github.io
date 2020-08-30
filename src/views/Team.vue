@@ -7,7 +7,7 @@
             <p class="google-font mb-0" style="font-size:200%;color:#616161">Our lineup of big thinkers and even bigger doers</p>
             <p class="google-font mt-0 mb-0" style="font-size:110%">Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what DSC is about. </p>
 
-            <p class="google-font mt-3 mb-0" style="font-size:110%">Our goal is to organize workshops and events to provide an environment for university students to grow they're technical skills and connect with industry professionals. And Our Core Team is: </p>
+            <p class="google-font mt-3 mb-0" style="font-size:110%">Our goal is to organize workshops and events to provide an environment for university students to grow they're technical skills and connect with industry professionals. And Our Team is: </p>
 
         </v-flex>
       </v-layout>

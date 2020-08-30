@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/DSC-Amritapuri.github.io/',
+  publicPath: '/',
   productionSourceMap: false,
   pwa: {
     name: 'DSC Amrita University, Amritapuri',
