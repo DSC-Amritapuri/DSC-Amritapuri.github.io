@@ -7,7 +7,7 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "clean": "rm -rf dist/",
-    "deploy": "yarn clean && yarn lint && yarn build && firebase deploy"
+    "gh-pages-deploy": "node scripts/gh-pages-deploy.js"
   },
   "dependencies": {
     "axios": "^0.18.1",
