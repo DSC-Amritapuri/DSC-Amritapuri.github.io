@@ -26,7 +26,7 @@
         </v-layout>
 
         <v-layout wrap row >
-            <v-flex xs12 sm6 md4 lg4 v-for="(item,i) in events" :key="i">
+            <v-flex xs12 sm6 md4 lg4 v-for="(item,i) in eventsData.pastEvent" :key="i">
                 <v-slide-y-reverse-transition>
                     <v-list two-line subheader class="pa-2">
                         <v-list-tile
@@ -73,22 +73,18 @@
 </template>
 
 <script>
-import { db } from '../firebase';
+import ChapterDetails from "@/assets/data/chaptersDetails.json";
+import eventsJson from "@/assets/data/events.json";
 export default {
-    data() {
-        return {
-            events: [],
-            errorMsg:'',
-            errorAlert:false,
-            notFoundPastEventFlag:false,
-            currDate: this.filterDate()
-        }
-    },
-    firestore(){
-        return {
-           events: db.collection('events').orderBy('date', 'desc').where('date', '<', this.currDate)
-        }
-    },
+  data() {
+    return {
+      chapterDetails: ChapterDetails,
+      eventsData: eventsJson,
+      notFoundPastEventFlag: false,
+      errorMsg: "",
+      errorAlert: false
+    };
+  },
     methods: {
         filterDate(){
             var currDate = new Date()
@@ -112,6 +108,5 @@ export default {
 </script>
 
 <style scoped>
-    
 </style>
 
