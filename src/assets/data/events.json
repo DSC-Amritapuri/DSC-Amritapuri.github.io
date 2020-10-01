@@ -1,15 +1,22 @@
 {
     "upcomingEvent": [
         {
+        }
+    ],
+
+    "pastEvent": [
+        {
             "title": "Become a Member",
-            "date": "2020-10-01",
+            "date": "2020-08-28",
             "time": "17:00",
             "description": "Want to become a member",
             "venue": "Fill the form",
             "icon": "M",
-            "link": "https://forms.gle/4CQeoSYLRaiXtM8JA"
+            "link": "https://forms.gle/4CQeoSYLRaiXtM8JA",
+            "speaker":"DSC Lead"
         }
     ],
+
     "events": [
         {
             "title": "Become a Member",
