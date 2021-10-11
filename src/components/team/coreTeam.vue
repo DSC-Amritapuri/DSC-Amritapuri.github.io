@@ -5,7 +5,7 @@
                 <v-flex xs6 sm3 md2 lg2 v-for="(item,i) in LeadDetails" :key="i" class="text-xs-center" style="text-align:center">
                         <div class="text-xs-center ma-1 pa-1 py-5 my-0" >
                             <v-avatar size="100">
-                                <img src='@/assets/img/team/profileImg1.jpg'>
+                                <img src='@/assets/img/team/govind.png'>
                                     <v-layout
                                         slot="placeholder"
                                         fill-height

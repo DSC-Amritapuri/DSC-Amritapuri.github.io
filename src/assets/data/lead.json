@@ -1,13 +1,13 @@
 [
 
     {
-    "name":"Shashank Priyadarshi",
-    "designation":"Team Lead",
-    "twitter":"https://twitter.com/robustTechie",
-    "linkedin":"https://www.linkedin.com/in/robustTechie",
-    "github":"https://github.com/robustTechie",
-    "leadImage":"profileImg1.jpg",
-    "website":"https://robustTechie.github.io"
+        "name":"Govind Goel",
+        "designation":"Team Lead",
+        "twitter":"https://twitter.com/govindgoel82",
+        "linkedin":"https://www.linkedin.com/in/govindgoel",
+        "github":"https://github.com/govindgoel",
+        "profileImage":"govind.png",
+        "website":"https://govindgoel.github.io"
     }
-    
+
 ]
